@@ -1,6 +1,6 @@
-## 👋 Hi, I’m Nelson Liang
+## 👋 Hi, I’m Dean Leung
 
-[![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelson0217)](https://github.com/anuraghazra/github-readme-stats)
+[![Dean's GitHub stats](https://github-readme-stats.vercel.app/api?username=dean-leung)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 - 👋 Hi, I’m Nelson Liang
